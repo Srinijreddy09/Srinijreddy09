@@ -66,12 +66,12 @@ Admin dashboard using **React + Spring Boot** with CRUD, search, filter & pagina
 - Built multiple end-to-end full stack & ML projects  
 
 ---
-
 ## 📫 Connect With Me
 - 📧 Email: **srinijreddy09@gmail.com**  
 - 🔗 LinkedIn: https://linkedin.com/in/srinij09  
 - 🧑‍💻 GitHub: https://github.com/Srinijreddy09  
 - 💡 LeetCode: https://leetcode.com/u/Srinij_09  
+- 🌐 Portfolio: https://srinijreddy09.github.io/SrinijPortfolio
 
 ---
 
